@@ -1,1 +1,82 @@
 # jsDSA
+___
+-[ ] Binary Search
+-[ ] Quicksort
+-[ ]  Merge Sort
+ -[ ] Suffix Array
+ -[ ] Knuth-Morris-Pratt Algorithm (KMP)
+ -[ ] Rabin-Karp Algorithm
+ -[ ] Tries
+ -[ ] Depth First Traversal of a graph
+ -[ ] Breadth First Traversal of a graph
+ -[ ] Dijkstra's Algorithm
+ -[ ] Binary Indexed Tree
+ -[ ] Segment Tree (with lazy propagation)
+ -[ ] Persistent Segment Tree,
+ -[ ] Z algorithm
+ -[ ] Floyd Warshall Algorithm
+ -[ ] Sparse Table(RMQ)
+ -[ ] Heap / Priority Queue / Heapsort
+ -[ ] Modular Multiplicative Inverse
+ -[ ] Suffix Automaton
+ -[ ] Lowest Common Ancestor
+ -[ ] Counting Inversions
+ -[ ] Euclid's Extended Algorithm
+ -[ ] Suffix Tree
+ -[ ] Dynamic Programming: Longest Increasing Subsequence, Bitmask DP, Bitmask DP, Optimization, DP on Trees
+-[ ]  Basic Data Structures : Stack Implementation, Queue Implementation, Linked List Implementation
+-[ ]  Logarithmic Exponentiation
+ -[ ] Graphs
+ -[ ] Minimum Spanning Tree : Kruskal's Implementation, Prim's Implementation
+ -[ ] Efficient Prime Factorization
+ -[ ] Combinatorics
+ -[ ] Union Find/Disjoint Set
+ -[ ] Knapsack problem
+ -[ ] Aho-Corasick String Matching Algorithm
+ -[ ] Strongly Connected Components
+ -[ ] Bellman Ford algorithm
+ -[ ] Heavy-light Decomposition
+ -[ ] Convex Hull : Jarvis Algorithm Implementation, Graham scan
+ -[ ] Line Intersection
+ -[ ] Sieve of Erastothenes
+ -[ ] Interval Tree
+ -[ ] Counting Sort
+ -[ ] Probabilities
+ -[ ] Matrix Exponentiation
+ -[ ] Network flow : (Max Flow)Tutorial : I, II, Max Flow(Ford-Fulkerson) Tutorial, Implementation, (Min Cut) Tutorial, Implementation, (Min Cost Flow)Tutorial : I, II, III, Dinic's Algorithm with Implementation, Max flow by Edmonds Karp with Implementation
+ -[ ] K-d tree
+ -[ ] Deque
+ -[ ] Binary Search Tree
+ -[ ] Quick Select
+ -[ ] Treap/Cartesian Tree
+ -[ ] Game Theory
+ -[ ] Maximum Bipartite Matching
+ -[ ] Manacher's Algorithm
+ -[ ] Miller-Rabin Primality Test
+ -[ ] Stable Marriage Problem
+ -[ ] Hungarian Algorithm
+ -[ ] Sweep line Algorithm
+ -[ ] LCP
+ -[ ] Gaussian Elimination
+ -[ ] Pollard Rho Integer Factorization, problem
+ -[ ] Topological Sorting
+ -[ ] Detecting Cycles in a Graph
+ -[ ] Geometry
+ -[ ] Backtracking : N queens problem, Tug of War, Sudoku
+ -[ ] Eulerian and Hamiltonian Paths : (Eulerian Path and Cycle)Implementation, (Hamiltonian Cycle)
+-[ ]  Graph Coloring
+ -[ ] Meet in the Middle
+ -[ ] Radix Sort, Bucket Sort
+ -[ ] Johnson's Algorithm
+ -[ ] Maximal Matching in a General Graph : Blossom/Edmond's Algorithm, Implementation, Tutte Matrix
+-[ ]  Recursion: Towers of Hanoi with explanation
+ -[ ] Inclusion and Exclusion Principle
+ -[ ] Co-ordinate Compression
+ -[ ] Sqrt-Decomposition
+ -[ ] Link-Cut Tree
+ -[ ] Euler's Totient Function
+ -[ ] Burnside Lemma
+ -[ ] Edit/Levenshtein Distance
+ -[ ] Branch and Bound
+ -[ ] Math for Competitive Programming
+ -[ ] Mo's Algorithm : Tutorial and Problems
